@@ -1,0 +1,23 @@
+body{
+    color:white;
+    background-color: gray;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.nombreobjetos, #ResultadoNombreObjeto, #ObjetoPrecision{
+    color: yellow;
+    font-size: 15px;
+}
+#camera, #result{
+    border: 2px dashed whitesmoke;
+    width: 350px;
+    height: 300px;
+}
+label{
+    padding: 10px;
+    background-color: black;
+    border-radius: 22px;
+    font-weight: bold;
+}
